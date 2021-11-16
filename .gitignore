@@ -8,3 +8,5 @@ main.py
 pyvenv.cfg
 private_key.pem
 public_key.pem
+Iv.txt
+Key.txt
